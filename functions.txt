@@ -1,0 +1,20 @@
+#Пример №1:
+
+# func = "cos(x ** 2 - 4 * x + 1)"
+# a, b, k = -5, 5, 50
+#points = [[1, 1], [2, 4], [3, 9], [4, 16], [5, 25], [6, 36], [7, 49], [8, 64], [9, 81], [10, 100]]
+# draw_function(func, a, b, 100 * k)
+# draw_function_cubic_spline_interpolation(func, a, b, k)
+
+# calc(function='cos(x ** 2 - 4 * x + 1)', array=[[1, 0], [2, -0.2], [3, 0.3], [4, 0.8], [5, -0.1]])
+#calc(func, points)
+
+
+#Пример №3:
+
+#func = "sin(x)"
+#points = [[1, 1], [2, 4], [3, 9], [4, 16], [5, 25], [6, 36], [7, 49], [8, 64], [9, 81], [10, 100]]
+#draw_function(func, a, b, 100 * k)
+#draw_function_cubic_spline_interpolation(func, a, b, k)
+
+#calc(function='x ** 2 - 2 * x', array=[[1, 0], [2, -0.2], [3, 0.3], [4, 0.8], [5, -0.1]])
